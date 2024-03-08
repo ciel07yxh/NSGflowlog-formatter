@@ -1,5 +1,9 @@
 # NSGflowlog-formatter
 
+**[Intro.]**
+
+Azure NSG flow log is originally not very readable, so I wrote this script to format it for human friendliness.
+
 **[Usage]:** 
 
 It’s simple!
